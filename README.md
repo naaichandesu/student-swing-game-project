@@ -46,5 +46,28 @@ Database used: PostgreSQL
 
 ## Screenshots
 
+1. Login Page
+![Login Page](screenshots/Halaman_Login.png)
+2. Login Success
+![Login Success](screenshots/Login_Berhasil.png)
+3. Main Menu
+![Main Menu](screenshots/Halaman_Menu.png)
+3. Game Board
+![Game Board](screenshots/Halaman_Main.png)
+4. Game in Progress
+![Game in Progress](screenshots/Halaman_Main_Berlangsung.png)
+5. Statistics
+![Statistics](screenshots/Halaman_Statistik.png)
+6. Top Scorers
+![Top Scorers](screenshots/Halaman_TopScorers.png)
+7. Login Failed Notification
+![Login Failed](screenshots/Notifikasi_Gagal_Login.png)
+8. Win Notification
+![Win Notification](screenshots/Notifikasi_Menang.png)
+9. Lose Notification
+![Lose Notification](screenshots/Notifikasi_Kalah.png)
+10. Draw Notification
+![Draw Notification](screenshots/Notifikasi_Seri.png)
+
 ## Video Link
 https://youtu.be/4uk2e6i8Ddk 

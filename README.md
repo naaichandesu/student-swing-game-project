@@ -45,7 +45,8 @@ Database used: PostgreSQL
 11. TopScorersFrame: Menampilkan data pemain dengan skor tertinggi (5 teratas)
 
 ## Screenshots
-
+1. Login Page
+![Login Page](screenshots/Halaman_Login.png)
 2. Login Success
 ![Login Success](screenshots/Login_Berhasil.png)
 3. Main Menu

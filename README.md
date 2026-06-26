@@ -47,7 +47,7 @@ Database used: PostgreSQL
 ## Screenshots
 
 1. Login Page
-![Login Page](screenshots/Halaman_Login.png)
+![Login Page](screenshots/Halaman_Login.PNG)
 2. Login Success
 ![Login Success](screenshots/Login_Berhasil.png)
 3. Main Menu
